@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "expect": "^26.6.2",
     "playwright": "^1.7.1"
   }
 }
